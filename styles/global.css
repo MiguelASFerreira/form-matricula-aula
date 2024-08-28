@@ -34,4 +34,5 @@
 body {
     font: var(--text);
     color: var(--text-color-primary);
+    overflow: hidden;
 }
