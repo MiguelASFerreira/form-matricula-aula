@@ -30,7 +30,7 @@
     --h3: 800 20px/120% var(--font-family);
     --h4: 800 16px/120% var(--font-family);
 
-    zoom: 65%;
+    /* zoom: 50%; */
 }
 
 body {
